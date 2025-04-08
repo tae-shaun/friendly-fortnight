@@ -1,2 +1,2 @@
-# friendly-fortnight
+# Point of Sale System
 Point of Sale System
